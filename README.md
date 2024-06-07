@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m @AwaisZahid331, a MERN stack developer with a passion for integrating AI into my projects.
+- 👋 Hi, I’m Awais Zahid, a MERN stack developer with a passion for integrating AI into my projects.
 - 👀 I’m interested in creating innovative solutions by combining MERN stack technologies with artificial intelligence.
 - 🌱 I’m currently learning more about AI and its applications in web development.
 - 💞️ I’m looking to collaborate on projects that involve MERN stack development and AI integration.
