@@ -23,8 +23,8 @@
 <p align="left">
 <a href="https://twitter.com/awaiszahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awaiszahid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/awaiszahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awaiszahid" height="30" width="40" /></a>
-<a href="https://fb.com/awaiszahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awaiszahid" height="30" width="40" /></a>
-<a href="https://instagram.com/awaiszahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awaiszahid" height="30" width="40" /></a>
+<a href="https://fb.com/awais-zahid31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awais-zahid31" height="30" width="40" /></a>
+<a href="https://instagram.com/awaiszahid31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awaiszahid31" height="30" width="40" /></a>
 <a href="https://medium.com/@awaiszahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@awaiszahid" height="30" width="40" /></a>
 </p>
 
