@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/awaiszahid" target="blank"><img src="https://img.shields.io/twitter/follow/awaiszahid?logo=twitter&style=for-the-badge" alt="awaiszahid" /></a> </p>
 
-- 🔭 I’m currently working on **Student Resource Hub**
+- 🔭 I’m currently working on **Full Stack Projects**
 
 - 🌱 I’m currently learning **Advanced React.js concepts like server-side rendering with Next.js. Backend scaling techniques with Node.js and Microservices architecture. Integrating Machine Learning models with the MERN stack.**
 
