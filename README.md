@@ -49,7 +49,7 @@
 - 🎓 **Full Stack Project**  
 - 🤖 **AI-Enhanced Learning Platform** – MERN + AI features  
 - 💬 **Chatbot Integration in MERN** – Smart conversational features  
-- 📸 **Image Recognition System** – Using CLIP & embeddings (coming soon)  
+- 📸 **A FastAPI-based computer vision model training application.** (coming soon)  
 
 ---
 
