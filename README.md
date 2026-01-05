@@ -4,63 +4,56 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=awaiszahid331&label=Profile%20Views&color=blue&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/awaiszahid331?label=Followers&style=social" alt="followers" />
+  <a href="https://github.com/awaiszahid331?tab=followers">
+    <img src="https://img.shields.io/github/followers/awaiszahid331?label=Followers&style=social" alt="followers" />
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 **About Me**
-- 🔭 I’m currently working as a**Full Stack AI Developer**
-- 🌱 Expanding my skills in **Next.js, Microservices, and AI integrations**
-- 🤝 Open to collaborating on **AI-enabled MERN Projects**
-- 💬 Ask me about **React.js, Express.js, MongoDB, GSAP, PostgreSQL**
-- 🌍 Portfolio: **https://next-portfolio-rouge-tau.vercel.app/**
-- 📫 Reach me at **zahidawais31@gmail.com**
+## 🧑‍💻 About Me
+- 🔭 Currently working as a **Full Stack AI Developer**  
+- 🌱 Expanding skills in **Next.js, Microservices, and AI Integrations**  
+- 🤝 Open to collaborating on **AI-enabled MERN Projects**  
+- 💬 Ask me about **React.js, Express.js, MongoDB, GSAP, PostgreSQL**  
+- 🌍 Portfolio: [https://next-portfolio-rouge-tau.vercel.app](https://next-portfolio-rouge-tau.vercel.app)  
+- 📫 Reach me at: **zahidawais31@gmail.com**
 
 ---
 
-## 🚀 **Skills & Tech Stack**
+## 🚀 Skills & Tech Stack
 
-### **Frontend**
+### Frontend
 <p>
- <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,ts,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,ts,html,css,bootstrap" />
 </p>
 
-### **Backend**
+### Backend
 <p>
- <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python" />
 </p>
 
-### **Databases**
+### Databases
 <p>
- <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
 </p>
 
-### **DevOps & Tools**
+### DevOps & Tools
 <p>
- <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,postman,figma,webpack" />
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,postman,figma,webpack" />
 </p>
 
 ---
 
-## 📌 **Featured Projects**
-Here are some of the projects I’m proud of:
-
-- 🎓 **Student Resource Hub** – Centralized student learning platform  
+## 📌 Featured Projects
+- 🎓 **Full Stack Project**  
 - 🤖 **AI-Enhanced Learning Platform** – MERN + AI features  
 - 💬 **Chatbot Integration in MERN** – Smart conversational features  
 - 📸 **Image Recognition System** – Using CLIP & embeddings (coming soon)  
 
 ---
 
-## 📝 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-*Coming soon…*
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🌐 **Connect with Me**
+## 🌐 Connect with Me
 <p align="left">
 <a href="https://twitter.com/awaiszahid" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 <a href="https://linkedin.com/in/awais-zahid31" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
@@ -70,28 +63,16 @@ Here are some of the projects I’m proud of:
 
 ---
 
-## 📊 **GitHub Stats**
+## 🏆 Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awaiszahid331&show_icons=true&theme=react" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiszahid331&layout=compact&theme=react" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awaiszahid331&theme=react" height="200"/>
+<img src="https://github-profile-trophy.vercel.app/?username=awaiszahid331&theme=algolia&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-## 🏆 **Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awaiszahid331&theme=algolia&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## 🎯 **Fun Fact**
+## 🎯 Fun Fact
 💡 *I love turning complex problems into clean, scalable solutions.*
 
 ---
 
-## 🚀 **Let's Build Something Amazing Together!**
+## 🚀 Let's Build Something Amazing Together!
