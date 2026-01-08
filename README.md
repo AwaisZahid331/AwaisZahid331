@@ -16,7 +16,7 @@
 - 🌱 Expanding skills in **Next.js, Microservices, and AI Integrations**  
 - 🤝 Open to collaborating on **AI-enabled MERN Projects**  
 - 💬 Ask me about **React.js, Express.js, MongoDB, GSAP, PostgreSQL**  
-- 🌍 Portfolio: [https://next-portfolio-rouge-tau.vercel.app](https://next-portfolio-rouge-tau.vercel.app)  
+- 🌍 Portfolio: [https://portfolio-x-two-phi.vercel.app/](https://next-portfolio-rouge-tau.vercel.app)  
 - 📫 Reach me at: **zahidawais31@gmail.com**
 
 ---
