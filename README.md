@@ -14,7 +14,7 @@
 ## 🧑‍💻 About Me
 - 🔭 Currently working as a **Full Stack AI Developer**  
 - 🌱 Expanding skills in **Next.js, Microservices, and AI Integrations**  
-- 🤝 Open to collaborating on **AI-enabled MERN Projects**  
+- 🤝 Open to collaborating on **AI-enabled Full Stack Projects**  
 - 💬 Ask me about **React.js, Express.js, MongoDB, GSAP, PostgreSQL**  
 - 🌍 Portfolio: [https://portfolio-x-two-phi.vercel.app/](https://portfolio-x-two-phi.vercel.app/)  
 - 📫 Reach me at: **zahidawais31@gmail.com**
