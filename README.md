@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 - 🔭 Currently working as a **Full Stack AI Developer**  
 - 🌱 Expanding skills in **Next.js, Microservices, and AI Integrations**  
 - 🤝 Open to collaborating on **AI-enabled Full Stack Projects**  
