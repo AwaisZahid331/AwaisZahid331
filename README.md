@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-javascript
+```javascript
 const awais = {
   role: "Full Stack AI Developer",
   location: "Pakistan 🇵🇰",
@@ -35,6 +35,9 @@ const awais = {
   },
   learning: ["Microservices", "Kubernetes", "GraphQL"],
   funFact: "I turn coffee into code ☕"
+};
+```
+ct: "I turn coffee into code ☕"
 };
 
 
