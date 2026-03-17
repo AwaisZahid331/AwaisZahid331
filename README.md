@@ -1,14 +1,6 @@
 <!-- 🔥 TOP BANNER WITH GRADIENT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Awais%20Zahid&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=4FA3F7" width="100%" />
-  
-  <!-- Animated Floating Icons -->
-  <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Technology/Laptop.png" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Technology/Artificial%20Intelligence.png" width="40" height="40" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Awais%20Zahid&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Integration%20Specialist&descAlignY=60&descSize=18" width="100%" />
 </div>
 
 <!-- 🔥 SOCIAL BADGES -->
