@@ -12,7 +12,7 @@
 
 ### About
 
-I'm an **AI & Agentic Systems Engineer** and Full Stack Developer with 2+ years of experience, currently working as an Associate Software Engineer at **CBSOL**. I build autonomous AI agents, LLM orchestration workflows, and scalable full-stack applications — combining the MERN stack and Next.js with production-grade AI integration (RAG pipelines, multi-agent systems, and automation workflows).
+I'm an **AI & Agentic Systems Engineer** and Full Stack Developer with 2+ years of experience, currently working as an Software Engineer at **CBSOL**. I build autonomous AI agents, LLM orchestration workflows, and scalable full-stack applications — combining the MERN stack and Next.js with production-grade AI integration (RAG pipelines, multi-agent systems, and automation workflows).
 
 - 🤖 Currently building autonomous AI agent systems and workflow orchestration tools
 - 🔭 Shipping AI-integrated full-stack products in production
@@ -57,7 +57,7 @@ I'm an **AI & Agentic Systems Engineer** and Full Stack Developer with 2+ years 
 
 | Project | Description | Stack |
 |---|---|---|
-| **PXEngine** | Multi-agent AI workflow automation platform | Next.js, Node.js, AWS |
+| **PXEngine** | Multi-agent AI workflow automation platform | Next.js, Pyhton, Flask, AWS |
 | **TheOneAcademy** | Full-stack LMS with role-based access | React, PostgreSQL, Drizzle ORM |
 | **ChefBasil** | AI-powered meal planning with grocery automation | React, Node.js, MongoDB |
 
