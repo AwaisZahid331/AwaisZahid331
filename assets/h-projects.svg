@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Things I&#x27;ve shipped"><title>Things I&#x27;ve shipped</title><defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c0710"/><stop offset="0.55" stop-color="#160a13"/><stop offset="1" stop-color="#1f0818"/></linearGradient>
+  <radialGradient id="glow" cx="0.5" cy="0.5" r="0.6"><stop offset="0" stop-color="#e0336f" stop-opacity="0.26"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow2" cx="0.05" cy="1" r="0.5"><stop offset="0" stop-color="#7a1fd1" stop-opacity="0.16"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#fff" fill-opacity="0.045"/></pattern>
+  <clipPath id="card"><rect width="1200" height="96" rx="22"/></clipPath>
+  <style>
+    .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+    .serif{font-family:Georgia,'Times New Roman',Times,serif}
+    .sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+    .cursor{animation:blink 1.1s steps(1) infinite} @keyframes blink{50%{opacity:0}}
+    .live{animation:live 2s ease-in-out infinite} @keyframes live{0%,100%{opacity:1}50%{opacity:.35}}
+    .rise{animation:rise .8s ease-out both} @keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  </style>
+</defs><g clip-path="url(#card)"><rect width="1200" height="96" fill="url(#bg)"/><rect width="1200" height="96" fill="url(#dots)"/><rect width="1200" height="96" fill="url(#glow)"/><rect width="1200" height="96" fill="url(#glow2)"/></g><rect x="0.75" y="0.75" width="1198.5" height="94.5" rx="21.5" fill="none" stroke="#ff5c97" stroke-opacity="0.22" stroke-width="1.5"/><text x="40" y="58" class="mono" font-size="14" letter-spacing="2" fill="#ff5c97">03</text><line x1="76" y1="53" x2="110" y2="53" stroke="#ff5c97" stroke-opacity="0.6"/><text x="124" y="62" class="serif" font-size="32" font-weight="700" fill="#fff">Things I&#x27;ve shipped<tspan fill="#ff5c97">.</tspan></text><text x="1160" y="59" text-anchor="end" class="mono" font-size="13" fill="#9c7f8d">~/awais <tspan fill="#ff5c97">$</tspan> ls ./projects</text></svg>
