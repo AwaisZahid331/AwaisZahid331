@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Awais Zahid, Full Stack AI Developer">
+  <title>Awais Zahid | Full Stack AI Developer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c0710"/>
+      <stop offset="0.55" stop-color="#170a14"/>
+      <stop offset="1" stop-color="#22081a"/>
+    </linearGradient>
+    <radialGradient id="glowR" cx="0.78" cy="0.45" r="0.55">
+      <stop offset="0" stop-color="#e0336f" stop-opacity="0.38"/>
+      <stop offset="0.5" stop-color="#8f1d4f" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowL" cx="0.08" cy="0.95" r="0.5">
+      <stop offset="0" stop-color="#7a1fd1" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f3d9e4"/>
+    </linearGradient>
+    <linearGradient id="avatarGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff4d8d"/>
+      <stop offset="1" stop-color="#6d1d8f"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff5c97" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ff5c97" stop-opacity="0.1"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#ffffff" fill-opacity="0.05"/>
+    </pattern>
+    <clipPath id="card"><rect x="0" y="0" width="1200" height="440" rx="22"/></clipPath>
+    <clipPath id="avatarClip"><circle cx="958" cy="212" r="104"/></clipPath>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <style>
+      .mono { font-family: 'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; }
+      .serif { font-family: Georgia,'Times New Roman',Times,serif; }
+      .sans { font-family: 'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .spin { transform-origin: 958px 212px; animation: spin 38s linear infinite; }
+      .spinR { transform-origin: 958px 212px; animation: spin 60s linear infinite reverse; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      .pulse { animation: pulse 4.5s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+      .rise { animation: rise .9s ease-out both; }
+      .rise2 { animation: rise .9s .15s ease-out both; }
+      .rise3 { animation: rise .9s .3s ease-out both; }
+      @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+      .live { animation: live 2s ease-in-out infinite; }
+      @keyframes live { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="440" fill="url(#bg)"/>
+    <rect width="1200" height="440" fill="url(#dots)"/>
+    <rect width="1200" height="440" fill="url(#glowR)"/>
+    <rect width="1200" height="440" fill="url(#glowL)"/>
+    <!-- faint large wordmark -->
+    <text x="1180" y="420" text-anchor="end" class="serif" font-size="200" font-style="italic" fill="#ffffff" fill-opacity="0.025">AI</text>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="438.5" rx="21.5" fill="none" stroke="#ff5c97" stroke-opacity="0.22" stroke-width="1.5"/>
+
+  <!-- terminal pill -->
+  <g class="rise">
+    <rect x="56" y="44" width="318" height="34" rx="17" fill="#ffffff" fill-opacity="0.04" stroke="#ff5c97" stroke-opacity="0.35"/>
+    <circle cx="76" cy="61" r="4.5" fill="#ff5c97" class="live"/>
+    <text x="90" y="66" class="mono" font-size="14" fill="#e9c6d6">~/awais <tspan fill="#ff5c97">$</tspan> build --intelligent</text>
+    <rect x="343" y="53" width="8" height="16" fill="#ff5c97" class="cursor"/>
+  </g>
+
+  <!-- kicker -->
+  <g class="rise">
+    <line x1="58" y1="112" x2="92" y2="112" stroke="#ff5c97" stroke-width="2"/>
+    <text x="104" y="117" class="mono" font-size="13.5" letter-spacing="4" fill="#ff7aa9">AI  ·  AGENTS  ·  ENGINEERING</text>
+  </g>
+
+  <!-- name -->
+  <g class="rise2">
+    <text x="54" y="196" class="serif" font-size="84" font-weight="700" fill="url(#nameGrad)" letter-spacing="-1">Awais</text>
+    <text x="54" y="276" class="serif" font-size="84" font-weight="700" fill="url(#nameGrad)" letter-spacing="-1">Zahid<tspan fill="#ff5c97">.</tspan></text>
+  </g>
+
+  <!-- role + tagline -->
+  <g class="rise3">
+    <line x1="58" y1="304" x2="640" y2="304" stroke="#ffffff" stroke-opacity="0.12"/>
+    <text x="58" y="332" class="mono" font-size="14" letter-spacing="2.6" fill="#f2e6ec">FULL STACK AI DEVELOPER  ·  AGENTIC SYSTEMS  ·  LLM ORCHESTRATION</text>
+    <text x="58" y="368" class="serif" font-size="21" font-style="italic" fill="#d9a9bf">Building agents that reason, act, and recover.</text>
+    <text x="58" y="404" class="mono" font-size="12.5" letter-spacing="2" fill="#9c7f8d">3 YRS IN PRODUCTION  ·  TEAM LEAD @ PXENGINE  ·  LAHORE, PK</text>
+  </g>
+
+  <!-- avatar + orbits -->
+  <circle cx="958" cy="212" r="120" fill="#ff3d84" fill-opacity="0.35" filter="url(#soft)" class="pulse"/>
+  <g class="spin">
+    <circle cx="958" cy="212" r="150" fill="none" stroke="url(#ring)" stroke-width="1.2" stroke-dasharray="3 7"/>
+    <circle cx="1108" cy="212" r="5" fill="#ff5c97"/>
+    <circle cx="808" cy="212" r="3.5" fill="#ffb3cf"/>
+    <g class="mono" font-size="11" letter-spacing="1.5" fill="#ffb3cf">
+      <text x="1118" y="201">LLM</text>
+      <text x="770" y="233">RAG</text>
+    </g>
+  </g>
+  <g class="spinR">
+    <circle cx="958" cy="212" r="168" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+    <circle cx="958" cy="44" r="4" fill="#c084fc"/>
+    <circle cx="958" cy="380" r="4" fill="#ff5c97"/>
+    <g class="mono" font-size="11" letter-spacing="1.5" fill="#d8b4fe">
+      <text x="970" y="41">AGENTS</text>
+      <text x="970" y="395">API</text>
+    </g>
+  </g>
+  <circle cx="958" cy="212" r="110" fill="none" stroke="#ff5c97" stroke-opacity="0.6" stroke-width="2"/>
+
+  <!-- AVATAR: monogram placeholder (replace with your photo, see README notes) -->
+  <g id="avatar" clip-path="url(#avatarClip)">
+    <rect x="854" y="108" width="208" height="208" fill="url(#avatarGrad)"/>
+    <text x="958" y="239" text-anchor="middle" class="serif" font-size="82" font-weight="700" fill="#ffffff" fill-opacity="0.95">AZ</text>
+  </g>
+
+  <!-- status chip under avatar -->
+  <g transform="translate(866 337)">
+    <rect width="184" height="30" rx="15" fill="#120a10" stroke="#ff5c97" stroke-opacity="0.45"/>
+    <circle cx="18" cy="15" r="4.5" fill="#34d399" class="live"/>
+    <text x="32" y="20" class="mono" font-size="12" letter-spacing="1" fill="#e9d5df">OPEN TO WORK</text>
+  </g>
+</svg>
